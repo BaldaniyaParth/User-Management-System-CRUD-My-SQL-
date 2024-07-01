@@ -66,16 +66,16 @@ This project is a simple User Management System that performs CRUD (Create, Read
 ## Usage
 
 ### View Users:
-Navigate to http://localhost:3000/user to view the list of users (ID, username, and email).
+Navigate to http://localhost:8080/user to view the list of users (ID, username, and email).
 
 ### Add User:
-Navigate to http://localhost:3000/user/new and fill in the form to add a new user with a username, email, and password.
+Navigate to http://localhost:8080/user/new and fill in the form to add a new user with a username, email, and password.
 
 ### Delete User:
-Navigate to http://localhost:3000/user/:id/delete and provide the email and password to delete a user.
+Navigate to http://localhost:8080/user/:id/delete and provide the email and password to delete a user.
 
 ### Update Username:
-Navigate to http://localhost:3000//user/:id/edit and provide the email, current password, and new username to update the username.
+Navigate to http://localhost:8080//user/:id/edit and provide the email, current password, and new username to update the username.
 
 
 ## Endpoints
